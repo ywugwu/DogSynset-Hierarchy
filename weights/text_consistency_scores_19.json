@@ -1,0 +1,52 @@
+{
+    "belgian sheepdog": {
+        "type_1_text_consistency_score": 0.7772024869918823,
+        "type_2_text_consistency_score": 0.15911945700645447,
+        "type_3_text_consistency_score": -0.36400464177131653
+    },
+    "bouvier des flandres": {
+        "type_1_text_consistency_score": 0.8516243696212769,
+        "type_2_text_consistency_score": 0.2980610728263855,
+        "type_3_text_consistency_score": -0.3311600685119629
+    },
+    "briard": {
+        "type_1_text_consistency_score": 0.8095324039459229,
+        "type_2_text_consistency_score": 0.2315894216299057,
+        "type_3_text_consistency_score": -0.3488037884235382
+    },
+    "collie": {
+        "type_1_text_consistency_score": 0.6286768317222595,
+        "type_2_text_consistency_score": 0.19758011400699615,
+        "type_3_text_consistency_score": -0.44090455770492554
+    },
+    "german shepherd": {
+        "type_1_text_consistency_score": 0.800944447517395,
+        "type_2_text_consistency_score": 0.3803860545158386,
+        "type_3_text_consistency_score": -0.42230093479156494
+    },
+    "kelpie": {
+        "type_1_text_consistency_score": 0.8509191274642944,
+        "type_2_text_consistency_score": 0.3145025968551636,
+        "type_3_text_consistency_score": -0.27692559361457825
+    },
+    "komondor": {
+        "type_1_text_consistency_score": 0.8215962648391724,
+        "type_2_text_consistency_score": 0.2917111814022064,
+        "type_3_text_consistency_score": -0.2763831615447998
+    },
+    "old english sheepdog": {
+        "type_1_text_consistency_score": 0.80518639087677,
+        "type_2_text_consistency_score": 0.2907112240791321,
+        "type_3_text_consistency_score": -0.3087168037891388
+    },
+    "rottweiler": {
+        "type_1_text_consistency_score": 0.8749854564666748,
+        "type_2_text_consistency_score": 0.3405054211616516,
+        "type_3_text_consistency_score": -0.34731391072273254
+    },
+    "shetland sheepdog": {
+        "type_1_text_consistency_score": 0.6286768317222595,
+        "type_2_text_consistency_score": 0.12861716747283936,
+        "type_3_text_consistency_score": -0.3136742115020752
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "malamute": {
+        "type_1_text_consistency_score": 0.7948637008666992,
+        "type_2_text_consistency_score": 0.24981160461902618,
+        "type_3_text_consistency_score": -0.4516160488128662
+    },
+    "siberian husky": {
+        "type_1_text_consistency_score": 0.7948637008666992,
+        "type_2_text_consistency_score": 0.2088002860546112,
+        "type_3_text_consistency_score": -0.4810657501220703
+    }
+}

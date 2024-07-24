@@ -1,0 +1,17 @@
+{
+    "appenzeller": {
+        "type_1_text_consistency_score": 0.9049186110496521,
+        "type_2_text_consistency_score": 0.5006014108657837,
+        "type_3_text_consistency_score": -0.16867461800575256
+    },
+    "bernese mountain dog": {
+        "type_1_text_consistency_score": 0.8896691203117371,
+        "type_2_text_consistency_score": 0.23145928978919983,
+        "type_3_text_consistency_score": -0.465312659740448
+    },
+    "greater swiss mountain dog": {
+        "type_1_text_consistency_score": 0.8896691203117371,
+        "type_2_text_consistency_score": 0.24692220985889435,
+        "type_3_text_consistency_score": -0.4846872091293335
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "basenji": {
+        "type_1_text_consistency_score": 0.813508152961731,
+        "type_2_text_consistency_score": 0.285709023475647,
+        "type_3_text_consistency_score": -0.24213019013404846
+    },
+    "corgi": {
+        "type_1_text_consistency_score": 0.8018208146095276,
+        "type_2_text_consistency_score": 0.1599402129650116,
+        "type_3_text_consistency_score": -0.386849969625473
+    },
+    "cur": {
+        "type_1_text_consistency_score": 0.6766670942306519,
+        "type_2_text_consistency_score": 0.026447854936122894,
+        "type_3_text_consistency_score": -0.4614398777484894
+    },
+    "dalmatian": {
+        "type_1_text_consistency_score": 0.7740774154663086,
+        "type_2_text_consistency_score": 0.2791508734226227,
+        "type_3_text_consistency_score": -0.33108019828796387
+    },
+    "great pyrenees": {
+        "type_1_text_consistency_score": 0.8130649328231812,
+        "type_2_text_consistency_score": 0.26000767946243286,
+        "type_3_text_consistency_score": -0.21669358015060425
+    },
+    "griffon": {
+        "type_1_text_consistency_score": 0.7642784118652344,
+        "type_2_text_consistency_score": 0.10502422600984573,
+        "type_3_text_consistency_score": -0.37649470567703247
+    },
+    "hunting dog": {
+        "type_1_text_consistency_score": 0.7144563794136047,
+        "type_2_text_consistency_score": 0.03924328088760376,
+        "type_3_text_consistency_score": -0.4396020174026489
+    },
+    "lapdog": {
+        "type_1_text_consistency_score": 0.7170312404632568,
+        "type_2_text_consistency_score": -0.045532990247011185,
+        "type_3_text_consistency_score": -0.4058283865451813
+    },
+    "leonberg": {
+        "type_1_text_consistency_score": 0.6913703680038452,
+        "type_2_text_consistency_score": 0.21966561675071716,
+        "type_3_text_consistency_score": -0.3838033974170685
+    },
+    "mexican hairless": {
+        "type_1_text_consistency_score": 0.768399715423584,
+        "type_2_text_consistency_score": 0.23761598765850067,
+        "type_3_text_consistency_score": -0.29700934886932373
+    },
+    "newfoundland": {
+        "type_1_text_consistency_score": 0.7190877795219421,
+        "type_2_text_consistency_score": 0.13710874319076538,
+        "type_3_text_consistency_score": -0.30710166692733765
+    },
+    "pooch": {
+        "type_1_text_consistency_score": 0.6773010492324829,
+        "type_2_text_consistency_score": 0.15371035039424896,
+        "type_3_text_consistency_score": -0.5236316919326782
+    },
+    "poodle": {
+        "type_1_text_consistency_score": 0.7838138937950134,
+        "type_2_text_consistency_score": 0.17742782831192017,
+        "type_3_text_consistency_score": -0.4880416691303253
+    },
+    "pug": {
+        "type_1_text_consistency_score": 0.7570873498916626,
+        "type_2_text_consistency_score": 0.19116824865341187,
+        "type_3_text_consistency_score": -0.47593846917152405
+    },
+    "puppy": {
+        "type_1_text_consistency_score": 0.6612142324447632,
+        "type_2_text_consistency_score": 0.12596584856510162,
+        "type_3_text_consistency_score": -0.5227990746498108
+    },
+    "spitz": {
+        "type_1_text_consistency_score": 0.8029176592826843,
+        "type_2_text_consistency_score": 0.11829344183206558,
+        "type_3_text_consistency_score": -0.39620521664619446
+    },
+    "toy dog": {
+        "type_1_text_consistency_score": 0.6612142324447632,
+        "type_2_text_consistency_score": 0.08509188890457153,
+        "type_3_text_consistency_score": -0.49758434295654297
+    },
+    "working dog": {
+        "type_1_text_consistency_score": 0.7055351138114929,
+        "type_2_text_consistency_score": 0.03846900165081024,
+        "type_3_text_consistency_score": -0.48619478940963745
+    }
+}

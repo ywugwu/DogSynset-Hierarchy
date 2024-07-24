@@ -1,0 +1,62 @@
+{
+    "afghan hound": {
+        "type_1_text_consistency_score": 0.8297235369682312,
+        "type_2_text_consistency_score": 0.23775506019592285,
+        "type_3_text_consistency_score": -0.3804658055305481
+    },
+    "basset": {
+        "type_1_text_consistency_score": 0.8562930822372437,
+        "type_2_text_consistency_score": 0.22686134278774261,
+        "type_3_text_consistency_score": -0.372653990983963
+    },
+    "beagle": {
+        "type_1_text_consistency_score": 0.8316414952278137,
+        "type_2_text_consistency_score": 0.32255738973617554,
+        "type_3_text_consistency_score": -0.41024351119995117
+    },
+    "bloodhound": {
+        "type_1_text_consistency_score": 0.8074296712875366,
+        "type_2_text_consistency_score": 0.27292829751968384,
+        "type_3_text_consistency_score": -0.42948687076568604
+    },
+    "coonhound": {
+        "type_1_text_consistency_score": 0.8074296712875366,
+        "type_2_text_consistency_score": 0.25705066323280334,
+        "type_3_text_consistency_score": -0.4051697254180908
+    },
+    "greyhound": {
+        "type_1_text_consistency_score": 0.8818131685256958,
+        "type_2_text_consistency_score": 0.3987395763397217,
+        "type_3_text_consistency_score": -0.3726252317428589
+    },
+    "ibizan hound": {
+        "type_1_text_consistency_score": 0.9056243896484375,
+        "type_2_text_consistency_score": 0.3216657340526581,
+        "type_3_text_consistency_score": -0.1596391499042511
+    },
+    "norwegian elkhound": {
+        "type_1_text_consistency_score": 0.9080612063407898,
+        "type_2_text_consistency_score": 0.3985734283924103,
+        "type_3_text_consistency_score": -0.14362719655036926
+    },
+    "saluki": {
+        "type_1_text_consistency_score": 0.8297235369682312,
+        "type_2_text_consistency_score": 0.21766537427902222,
+        "type_3_text_consistency_score": -0.35574981570243835
+    },
+    "scottish deerhound": {
+        "type_1_text_consistency_score": 0.7774459719657898,
+        "type_2_text_consistency_score": 0.13458983600139618,
+        "type_3_text_consistency_score": -0.4525490999221802
+    },
+    "weimaraner": {
+        "type_1_text_consistency_score": 0.9020360112190247,
+        "type_2_text_consistency_score": 0.2941967844963074,
+        "type_3_text_consistency_score": -0.23671036958694458
+    },
+    "wolfhound": {
+        "type_1_text_consistency_score": 0.7774459719657898,
+        "type_2_text_consistency_score": 0.23568198084831238,
+        "type_3_text_consistency_score": -0.45972761511802673
+    }
+}

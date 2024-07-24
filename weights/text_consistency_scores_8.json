@@ -1,0 +1,12 @@
+{
+    "american water spaniel": {
+        "type_1_text_consistency_score": 0.7813987731933594,
+        "type_2_text_consistency_score": 0.23031099140644073,
+        "type_3_text_consistency_score": -0.4619878828525543
+    },
+    "irish water spaniel": {
+        "type_1_text_consistency_score": 0.7813987731933594,
+        "type_2_text_consistency_score": 0.07557382434606552,
+        "type_3_text_consistency_score": -0.46469950675964355
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "boxer": {
+        "type_1_text_consistency_score": 0.5069775581359863,
+        "type_2_text_consistency_score": 0.19989535212516785,
+        "type_3_text_consistency_score": -0.48226433992385864
+    },
+    "bull mastiff": {
+        "type_1_text_consistency_score": 0.6292791366577148,
+        "type_2_text_consistency_score": 0.05489104986190796,
+        "type_3_text_consistency_score": -0.5091118812561035
+    },
+    "bulldog": {
+        "type_1_text_consistency_score": 0.4655371606349945,
+        "type_2_text_consistency_score": 0.1897585391998291,
+        "type_3_text_consistency_score": -0.4183880686759949
+    },
+    "eskimo dog": {
+        "type_1_text_consistency_score": 0.4880336821079254,
+        "type_2_text_consistency_score": 0.16463637351989746,
+        "type_3_text_consistency_score": -0.3931233584880829
+    },
+    "great dane": {
+        "type_1_text_consistency_score": 0.5708153247833252,
+        "type_2_text_consistency_score": 0.2761802673339844,
+        "type_3_text_consistency_score": -0.41395604610443115
+    },
+    "guide dog": {
+        "type_1_text_consistency_score": 0.42386627197265625,
+        "type_2_text_consistency_score": 0.11188578605651855,
+        "type_3_text_consistency_score": -0.44901242852211
+    },
+    "hearing dog": {
+        "type_1_text_consistency_score": 0.4059143662452698,
+        "type_2_text_consistency_score": -0.043900564312934875,
+        "type_3_text_consistency_score": -0.43993282318115234
+    },
+    "mastiff": {
+        "type_1_text_consistency_score": 0.6049748063087463,
+        "type_2_text_consistency_score": 0.15917065739631653,
+        "type_3_text_consistency_score": -0.5123335123062134
+    },
+    "police dog": {
+        "type_1_text_consistency_score": 0.418967068195343,
+        "type_2_text_consistency_score": 0.16438236832618713,
+        "type_3_text_consistency_score": -0.435710072517395
+    },
+    "saint bernard": {
+        "type_1_text_consistency_score": 0.6541740894317627,
+        "type_2_text_consistency_score": 0.32145142555236816,
+        "type_3_text_consistency_score": -0.2702399492263794
+    },
+    "seizure-alert dog": {
+        "type_1_text_consistency_score": 0.36045482754707336,
+        "type_2_text_consistency_score": 0.02221628464758396,
+        "type_3_text_consistency_score": -0.4517967700958252
+    },
+    "sennenhunde": {
+        "type_1_text_consistency_score": 0.36045482754707336,
+        "type_2_text_consistency_score": 0.17712754011154175,
+        "type_3_text_consistency_score": -0.5269002914428711
+    },
+    "shepherd dog": {
+        "type_1_text_consistency_score": 0.3917364180088043,
+        "type_2_text_consistency_score": 0.06460700184106827,
+        "type_3_text_consistency_score": -0.41441792249679565
+    },
+    "sled dog": {
+        "type_1_text_consistency_score": 0.37889358401298523,
+        "type_2_text_consistency_score": 0.057756200432777405,
+        "type_3_text_consistency_score": -0.4103332757949829
+    },
+    "watchdog": {
+        "type_1_text_consistency_score": 0.3719824552536011,
+        "type_2_text_consistency_score": 0.019219640642404556,
+        "type_3_text_consistency_score": -0.476484090089798
+    }
+}

@@ -1,0 +1,702 @@
+{
+    "feist": {
+        "type_1_text_consistency_score": 0.3484552502632141,
+        "type_2_text_consistency_score": 0.04955000430345535,
+        "type_3_text_consistency_score": -0.5332756042480469
+    },
+    "pariah dog": {
+        "type_1_text_consistency_score": 0.3894251883029938,
+        "type_2_text_consistency_score": 0.09066471457481384,
+        "type_3_text_consistency_score": -0.5472685098648071
+    },
+    "black-and-tan coonhound": {
+        "type_1_text_consistency_score": 0.5690038204193115,
+        "type_2_text_consistency_score": 0.13476872444152832,
+        "type_3_text_consistency_score": -0.43035101890563965
+    },
+    "coondog": {
+        "type_1_text_consistency_score": 0.43583011627197266,
+        "type_2_text_consistency_score": 0.1448032706975937,
+        "type_3_text_consistency_score": -0.5414260029792786
+    },
+    "italian greyhound": {
+        "type_1_text_consistency_score": 0.6389987468719482,
+        "type_2_text_consistency_score": 0.14833849668502808,
+        "type_3_text_consistency_score": -0.4799802303314209
+    },
+    "whippet": {
+        "type_1_text_consistency_score": 0.6056393384933472,
+        "type_2_text_consistency_score": 0.13128329813480377,
+        "type_3_text_consistency_score": -0.47661709785461426
+    },
+    "borzoi": {
+        "type_1_text_consistency_score": 0.6084557771682739,
+        "type_2_text_consistency_score": 0.15452542901039124,
+        "type_3_text_consistency_score": -0.37169134616851807
+    },
+    "irish wolfhound": {
+        "type_1_text_consistency_score": 0.5776195526123047,
+        "type_2_text_consistency_score": 0.011082816869020462,
+        "type_3_text_consistency_score": -0.5452247262001038
+    },
+    "afghan hound": {
+        "type_1_text_consistency_score": 0.6009351015090942,
+        "type_2_text_consistency_score": 0.2124125361442566,
+        "type_3_text_consistency_score": -0.3804658055305481
+    },
+    "basset": {
+        "type_1_text_consistency_score": 0.6018955707550049,
+        "type_2_text_consistency_score": 0.22686134278774261,
+        "type_3_text_consistency_score": -0.372653990983963
+    },
+    "beagle": {
+        "type_1_text_consistency_score": 0.5442933440208435,
+        "type_2_text_consistency_score": 0.22896942496299744,
+        "type_3_text_consistency_score": -0.4325878620147705
+    },
+    "bloodhound": {
+        "type_1_text_consistency_score": 0.6237817406654358,
+        "type_2_text_consistency_score": 0.2579299807548523,
+        "type_3_text_consistency_score": -0.42948687076568604
+    },
+    "coonhound": {
+        "type_1_text_consistency_score": 0.5944782495498657,
+        "type_2_text_consistency_score": 0.1830490678548813,
+        "type_3_text_consistency_score": -0.46646589040756226
+    },
+    "greyhound": {
+        "type_1_text_consistency_score": 0.5166649222373962,
+        "type_2_text_consistency_score": 0.16152003407478333,
+        "type_3_text_consistency_score": -0.4966053366661072
+    },
+    "ibizan hound": {
+        "type_1_text_consistency_score": 0.6862693428993225,
+        "type_2_text_consistency_score": 0.2623152732849121,
+        "type_3_text_consistency_score": -0.2780749499797821
+    },
+    "norwegian elkhound": {
+        "type_1_text_consistency_score": 0.6516135931015015,
+        "type_2_text_consistency_score": 0.2486732304096222,
+        "type_3_text_consistency_score": -0.3019717037677765
+    },
+    "saluki": {
+        "type_1_text_consistency_score": 0.5999372601509094,
+        "type_2_text_consistency_score": 0.21766537427902222,
+        "type_3_text_consistency_score": -0.3571440875530243
+    },
+    "scottish deerhound": {
+        "type_1_text_consistency_score": 0.6310291290283203,
+        "type_2_text_consistency_score": 0.13458983600139618,
+        "type_3_text_consistency_score": -0.4899700880050659
+    },
+    "weimaraner": {
+        "type_1_text_consistency_score": 0.6522139310836792,
+        "type_2_text_consistency_score": 0.2593725323677063,
+        "type_3_text_consistency_score": -0.300151526927948
+    },
+    "wolfhound": {
+        "type_1_text_consistency_score": 0.5776195526123047,
+        "type_2_text_consistency_score": 0.13205958902835846,
+        "type_3_text_consistency_score": -0.5466179847717285
+    },
+    "german short-haired pointer": {
+        "type_1_text_consistency_score": 0.5958203673362732,
+        "type_2_text_consistency_score": 0.18879961967468262,
+        "type_3_text_consistency_score": -0.350382924079895
+    },
+    "vizsla": {
+        "type_1_text_consistency_score": 0.6462351083755493,
+        "type_2_text_consistency_score": 0.2859005630016327,
+        "type_3_text_consistency_score": -0.3435806930065155
+    },
+    "chesapeake bay retriever": {
+        "type_1_text_consistency_score": 0.6829888224601746,
+        "type_2_text_consistency_score": 0.21094700694084167,
+        "type_3_text_consistency_score": -0.3069950342178345
+    },
+    "curly-coated retriever": {
+        "type_1_text_consistency_score": 0.615135908126831,
+        "type_2_text_consistency_score": 0.11296366155147552,
+        "type_3_text_consistency_score": -0.460263192653656
+    },
+    "flat-coated retriever": {
+        "type_1_text_consistency_score": 0.6072817444801331,
+        "type_2_text_consistency_score": 0.18844293057918549,
+        "type_3_text_consistency_score": -0.4878711402416229
+    },
+    "golden retriever": {
+        "type_1_text_consistency_score": 0.5743975639343262,
+        "type_2_text_consistency_score": 0.1164960116147995,
+        "type_3_text_consistency_score": -0.5586841106414795
+    },
+    "labrador retriever": {
+        "type_1_text_consistency_score": 0.5085313320159912,
+        "type_2_text_consistency_score": 0.261832058429718,
+        "type_3_text_consistency_score": -0.4830036461353302
+    },
+    "english setter": {
+        "type_1_text_consistency_score": 0.6997362375259399,
+        "type_2_text_consistency_score": 0.23191875219345093,
+        "type_3_text_consistency_score": -0.38848116993904114
+    },
+    "gordon setter": {
+        "type_1_text_consistency_score": 0.7079688310623169,
+        "type_2_text_consistency_score": 0.3066239655017853,
+        "type_3_text_consistency_score": -0.3029952645301819
+    },
+    "irish setter": {
+        "type_1_text_consistency_score": 0.6388425827026367,
+        "type_2_text_consistency_score": 0.2653826177120209,
+        "type_3_text_consistency_score": -0.350851446390152
+    },
+    "american water spaniel": {
+        "type_1_text_consistency_score": 0.5398973226547241,
+        "type_2_text_consistency_score": 0.04793735593557358,
+        "type_3_text_consistency_score": -0.544314980506897
+    },
+    "irish water spaniel": {
+        "type_1_text_consistency_score": 0.666533887386322,
+        "type_2_text_consistency_score": 0.06943968683481216,
+        "type_3_text_consistency_score": -0.46469950675964355
+    },
+    "brittany spaniel": {
+        "type_1_text_consistency_score": 0.6809394359588623,
+        "type_2_text_consistency_score": 0.28798454999923706,
+        "type_3_text_consistency_score": -0.30341672897338867
+    },
+    "cocker spaniel": {
+        "type_1_text_consistency_score": 0.3639812767505646,
+        "type_2_text_consistency_score": 0.030577538534998894,
+        "type_3_text_consistency_score": -0.4642277657985687
+    },
+    "sussex spaniel": {
+        "type_1_text_consistency_score": 0.6414501070976257,
+        "type_2_text_consistency_score": 0.17275077104568481,
+        "type_3_text_consistency_score": -0.32711607217788696
+    },
+    "water spaniel": {
+        "type_1_text_consistency_score": 0.5133367776870728,
+        "type_2_text_consistency_score": 0.0892658606171608,
+        "type_3_text_consistency_score": -0.5573617815971375
+    },
+    "bird dog": {
+        "type_1_text_consistency_score": 0.5022866725921631,
+        "type_2_text_consistency_score": 0.14490312337875366,
+        "type_3_text_consistency_score": -0.4754312336444855
+    },
+    "griffon": {
+        "type_1_text_consistency_score": 0.5363154411315918,
+        "type_2_text_consistency_score": 0.10502422600984573,
+        "type_3_text_consistency_score": -0.37649470567703247
+    },
+    "pointer": {
+        "type_1_text_consistency_score": 0.5011640787124634,
+        "type_2_text_consistency_score": 0.18185026943683624,
+        "type_3_text_consistency_score": -0.4008208215236664
+    },
+    "retriever": {
+        "type_1_text_consistency_score": 0.5310760736465454,
+        "type_2_text_consistency_score": 0.14639776945114136,
+        "type_3_text_consistency_score": -0.5471712350845337
+    },
+    "setter": {
+        "type_1_text_consistency_score": 0.6234915256500244,
+        "type_2_text_consistency_score": 0.19923092424869537,
+        "type_3_text_consistency_score": -0.44027554988861084
+    },
+    "spaniel": {
+        "type_1_text_consistency_score": 0.4514196515083313,
+        "type_2_text_consistency_score": 0.15095938742160797,
+        "type_3_text_consistency_score": -0.5143519639968872
+    },
+    "water dog": {
+        "type_1_text_consistency_score": 0.47106415033340454,
+        "type_2_text_consistency_score": 0.09338010102510452,
+        "type_3_text_consistency_score": -0.4875168800354004
+    },
+    "american staffordshire terrier": {
+        "type_1_text_consistency_score": 0.3935023546218872,
+        "type_2_text_consistency_score": 0.061964355409145355,
+        "type_3_text_consistency_score": -0.5234327912330627
+    },
+    "staffordshire bullterrier": {
+        "type_1_text_consistency_score": 0.3857492208480835,
+        "type_2_text_consistency_score": 0.12806665897369385,
+        "type_3_text_consistency_score": -0.4987332224845886
+    },
+    "airedale": {
+        "type_1_text_consistency_score": 0.5918099880218506,
+        "type_2_text_consistency_score": 0.1242561936378479,
+        "type_3_text_consistency_score": -0.3695842921733856
+    },
+    "australian terrier": {
+        "type_1_text_consistency_score": 0.6437472701072693,
+        "type_2_text_consistency_score": 0.1350090652704239,
+        "type_3_text_consistency_score": -0.49947190284729004
+    },
+    "boston bull": {
+        "type_1_text_consistency_score": 0.44384652376174927,
+        "type_2_text_consistency_score": 0.14340294897556305,
+        "type_3_text_consistency_score": -0.5100514888763428
+    },
+    "bullterrier": {
+        "type_1_text_consistency_score": 0.597776472568512,
+        "type_2_text_consistency_score": 0.23996701836585999,
+        "type_3_text_consistency_score": -0.38159415125846863
+    },
+    "cairn": {
+        "type_1_text_consistency_score": 0.46748343110084534,
+        "type_2_text_consistency_score": 0.05090641230344772,
+        "type_3_text_consistency_score": -0.43427878618240356
+    },
+    "dandie dinmont": {
+        "type_1_text_consistency_score": 0.531598687171936,
+        "type_2_text_consistency_score": 0.053807444870471954,
+        "type_3_text_consistency_score": -0.37395066022872925
+    },
+    "irish terrier": {
+        "type_1_text_consistency_score": 0.6759234666824341,
+        "type_2_text_consistency_score": 0.2346489131450653,
+        "type_3_text_consistency_score": -0.42417123913764954
+    },
+    "kerry blue terrier": {
+        "type_1_text_consistency_score": 0.7045032978057861,
+        "type_2_text_consistency_score": 0.2987004518508911,
+        "type_3_text_consistency_score": -0.2952583134174347
+    },
+    "lhasa": {
+        "type_1_text_consistency_score": 0.5342131853103638,
+        "type_2_text_consistency_score": 0.1115574836730957,
+        "type_3_text_consistency_score": -0.3872637152671814
+    },
+    "norfolk terrier": {
+        "type_1_text_consistency_score": 0.6439399123191833,
+        "type_2_text_consistency_score": 0.13134832680225372,
+        "type_3_text_consistency_score": -0.45375877618789673
+    },
+    "norwich terrier": {
+        "type_1_text_consistency_score": 0.6591520309448242,
+        "type_2_text_consistency_score": 0.18063457310199738,
+        "type_3_text_consistency_score": -0.45082157850265503
+    },
+    "rat terrier": {
+        "type_1_text_consistency_score": 0.6300498247146606,
+        "type_2_text_consistency_score": 0.17866721749305725,
+        "type_3_text_consistency_score": -0.42302367091178894
+    },
+    "schnauzer": {
+        "type_1_text_consistency_score": 0.45372650027275085,
+        "type_2_text_consistency_score": 0.10233961045742035,
+        "type_3_text_consistency_score": -0.4381346106529236
+    },
+    "scotch terrier": {
+        "type_1_text_consistency_score": 0.378714919090271,
+        "type_2_text_consistency_score": -0.008593805134296417,
+        "type_3_text_consistency_score": -0.39588966965675354
+    },
+    "silky terrier": {
+        "type_1_text_consistency_score": 0.6263424158096313,
+        "type_2_text_consistency_score": 0.06715930998325348,
+        "type_3_text_consistency_score": -0.4712718725204468
+    },
+    "skye terrier": {
+        "type_1_text_consistency_score": 0.6361083984375,
+        "type_2_text_consistency_score": 0.17962637543678284,
+        "type_3_text_consistency_score": -0.38452643156051636
+    },
+    "soft-coated wheaten terrier": {
+        "type_1_text_consistency_score": 0.641120433807373,
+        "type_2_text_consistency_score": 0.25004297494888306,
+        "type_3_text_consistency_score": -0.26061153411865234
+    },
+    "tibetan terrier": {
+        "type_1_text_consistency_score": 0.5969854593276978,
+        "type_2_text_consistency_score": 0.16813507676124573,
+        "type_3_text_consistency_score": -0.4362744390964508
+    },
+    "yorkshire terrier": {
+        "type_1_text_consistency_score": 0.5626555681228638,
+        "type_2_text_consistency_score": 0.1127854585647583,
+        "type_3_text_consistency_score": -0.48127979040145874
+    },
+    "courser": {
+        "type_1_text_consistency_score": 0.5795062780380249,
+        "type_2_text_consistency_score": 0.16922606527805328,
+        "type_3_text_consistency_score": -0.39582425355911255
+    },
+    "dachshund": {
+        "type_1_text_consistency_score": 0.4958672523498535,
+        "type_2_text_consistency_score": 0.1576598584651947,
+        "type_3_text_consistency_score": -0.4371262192726135
+    },
+    "hound": {
+        "type_1_text_consistency_score": 0.3762168884277344,
+        "type_2_text_consistency_score": 0.11506536602973938,
+        "type_3_text_consistency_score": -0.5101516246795654
+    },
+    "rhodesian ridgeback": {
+        "type_1_text_consistency_score": 0.644610583782196,
+        "type_2_text_consistency_score": 0.2820144295692444,
+        "type_3_text_consistency_score": -0.36674073338508606
+    },
+    "sporting dog": {
+        "type_1_text_consistency_score": 0.2943557798862457,
+        "type_2_text_consistency_score": 0.055890969932079315,
+        "type_3_text_consistency_score": -0.505811333656311
+    },
+    "terrier": {
+        "type_1_text_consistency_score": 0.4515154957771301,
+        "type_2_text_consistency_score": 0.11196945607662201,
+        "type_3_text_consistency_score": -0.5095843076705933
+    },
+    "large poodle": {
+        "type_1_text_consistency_score": 0.3013691306114197,
+        "type_2_text_consistency_score": 0.011502739042043686,
+        "type_3_text_consistency_score": -0.5383614897727966
+    },
+    "miniature poodle": {
+        "type_1_text_consistency_score": 0.5112606287002563,
+        "type_2_text_consistency_score": 0.03165796771645546,
+        "type_3_text_consistency_score": -0.5507156848907471
+    },
+    "standard poodle": {
+        "type_1_text_consistency_score": 0.620203971862793,
+        "type_2_text_consistency_score": 0.085311159491539,
+        "type_3_text_consistency_score": -0.4534216523170471
+    },
+    "toy poodle": {
+        "type_1_text_consistency_score": 0.668039083480835,
+        "type_2_text_consistency_score": 0.12051872909069061,
+        "type_3_text_consistency_score": -0.5336657166481018
+    },
+    "chow": {
+        "type_1_text_consistency_score": 0.4353059232234955,
+        "type_2_text_consistency_score": 0.016322871670126915,
+        "type_3_text_consistency_score": -0.4398112893104553
+    },
+    "keeshond": {
+        "type_1_text_consistency_score": 0.6549664735794067,
+        "type_2_text_consistency_score": 0.24189099669456482,
+        "type_3_text_consistency_score": -0.2927815020084381
+    },
+    "pomeranian": {
+        "type_1_text_consistency_score": 0.5979933738708496,
+        "type_2_text_consistency_score": 0.17293420433998108,
+        "type_3_text_consistency_score": -0.4723280370235443
+    },
+    "samoyed": {
+        "type_1_text_consistency_score": 0.6598840951919556,
+        "type_2_text_consistency_score": 0.25285664200782776,
+        "type_3_text_consistency_score": -0.42668968439102173
+    },
+    "chihuahua": {
+        "type_1_text_consistency_score": 0.5409482717514038,
+        "type_2_text_consistency_score": 0.1753925085067749,
+        "type_3_text_consistency_score": -0.4730999171733856
+    },
+    "japanese spaniel": {
+        "type_1_text_consistency_score": 0.5201131105422974,
+        "type_2_text_consistency_score": 0.13968278467655182,
+        "type_3_text_consistency_score": -0.4855535626411438
+    },
+    "maltese dog": {
+        "type_1_text_consistency_score": 0.535987913608551,
+        "type_2_text_consistency_score": 0.0953189805150032,
+        "type_3_text_consistency_score": -0.4252347946166992
+    },
+    "pekinese": {
+        "type_1_text_consistency_score": 0.597531259059906,
+        "type_2_text_consistency_score": 0.16510111093521118,
+        "type_3_text_consistency_score": -0.41101783514022827
+    },
+    "shih-tzu": {
+        "type_1_text_consistency_score": 0.5668405890464783,
+        "type_2_text_consistency_score": 0.18338683247566223,
+        "type_3_text_consistency_score": -0.4357984662055969
+    },
+    "toy terrier": {
+        "type_1_text_consistency_score": 0.5390204787254333,
+        "type_2_text_consistency_score": 0.07811572402715683,
+        "type_3_text_consistency_score": -0.41045358777046204
+    },
+    "appenzeller": {
+        "type_1_text_consistency_score": 0.5344699621200562,
+        "type_2_text_consistency_score": 0.1886385977268219,
+        "type_3_text_consistency_score": -0.3588702976703644
+    },
+    "bernese mountain dog": {
+        "type_1_text_consistency_score": 0.6371275782585144,
+        "type_2_text_consistency_score": 0.2165674865245819,
+        "type_3_text_consistency_score": -0.465312659740448
+    },
+    "greater swiss mountain dog": {
+        "type_1_text_consistency_score": 0.7462720274925232,
+        "type_2_text_consistency_score": 0.24692220985889435,
+        "type_3_text_consistency_score": -0.4846872091293335
+    },
+    "groenendael": {
+        "type_1_text_consistency_score": 0.33507752418518066,
+        "type_2_text_consistency_score": -0.06651930510997772,
+        "type_3_text_consistency_score": -0.41545847058296204
+    },
+    "malinois": {
+        "type_1_text_consistency_score": 0.6324231624603271,
+        "type_2_text_consistency_score": 0.21475961804389954,
+        "type_3_text_consistency_score": -0.41899898648262024
+    },
+    "belgian sheepdog": {
+        "type_1_text_consistency_score": 0.6001418828964233,
+        "type_2_text_consistency_score": 0.15911945700645447,
+        "type_3_text_consistency_score": -0.36400464177131653
+    },
+    "bouvier des flandres": {
+        "type_1_text_consistency_score": 0.6754104495048523,
+        "type_2_text_consistency_score": 0.2850930392742157,
+        "type_3_text_consistency_score": -0.3311600685119629
+    },
+    "briard": {
+        "type_1_text_consistency_score": 0.6191335916519165,
+        "type_2_text_consistency_score": 0.19344288110733032,
+        "type_3_text_consistency_score": -0.37414321303367615
+    },
+    "collie": {
+        "type_1_text_consistency_score": 0.5262435674667358,
+        "type_2_text_consistency_score": 0.19758011400699615,
+        "type_3_text_consistency_score": -0.4738215208053589
+    },
+    "german shepherd": {
+        "type_1_text_consistency_score": 0.5829495787620544,
+        "type_2_text_consistency_score": 0.26281988620758057,
+        "type_3_text_consistency_score": -0.4918186068534851
+    },
+    "kelpie": {
+        "type_1_text_consistency_score": 0.6639454364776611,
+        "type_2_text_consistency_score": 0.2831844687461853,
+        "type_3_text_consistency_score": -0.3006591498851776
+    },
+    "komondor": {
+        "type_1_text_consistency_score": 0.6888390779495239,
+        "type_2_text_consistency_score": 0.2676551043987274,
+        "type_3_text_consistency_score": -0.2763831615447998
+    },
+    "old english sheepdog": {
+        "type_1_text_consistency_score": 0.638973593711853,
+        "type_2_text_consistency_score": 0.22631654143333435,
+        "type_3_text_consistency_score": -0.35084983706474304
+    },
+    "rottweiler": {
+        "type_1_text_consistency_score": 0.5365386605262756,
+        "type_2_text_consistency_score": 0.2720947563648224,
+        "type_3_text_consistency_score": -0.41565975546836853
+    },
+    "shetland sheepdog": {
+        "type_1_text_consistency_score": 0.60959792137146,
+        "type_2_text_consistency_score": 0.12861716747283936,
+        "type_3_text_consistency_score": -0.3136742115020752
+    },
+    "malamute": {
+        "type_1_text_consistency_score": 0.5637273192405701,
+        "type_2_text_consistency_score": 0.22646239399909973,
+        "type_3_text_consistency_score": -0.4516160488128662
+    },
+    "siberian husky": {
+        "type_1_text_consistency_score": 0.4420495629310608,
+        "type_2_text_consistency_score": 0.1203007772564888,
+        "type_3_text_consistency_score": -0.4810657501220703
+    },
+    "affenpinscher": {
+        "type_1_text_consistency_score": 0.5659433603286743,
+        "type_2_text_consistency_score": 0.1550133228302002,
+        "type_3_text_consistency_score": -0.34037160873413086
+    },
+    "doberman": {
+        "type_1_text_consistency_score": 0.5362199544906616,
+        "type_2_text_consistency_score": 0.23957470059394836,
+        "type_3_text_consistency_score": -0.426840603351593
+    },
+    "attack dog": {
+        "type_1_text_consistency_score": 0.37729817628860474,
+        "type_2_text_consistency_score": 0.10741917788982391,
+        "type_3_text_consistency_score": -0.5611964464187622
+    },
+    "housedog": {
+        "type_1_text_consistency_score": 0.28868985176086426,
+        "type_2_text_consistency_score": 0.027406731620430946,
+        "type_3_text_consistency_score": -0.588847815990448
+    },
+    "kuvasz": {
+        "type_1_text_consistency_score": 0.6631278991699219,
+        "type_2_text_consistency_score": 0.2638949155807495,
+        "type_3_text_consistency_score": -0.38699182868003845
+    },
+    "pinscher": {
+        "type_1_text_consistency_score": 0.5782201290130615,
+        "type_2_text_consistency_score": 0.2194666564464569,
+        "type_3_text_consistency_score": -0.4181939661502838
+    },
+    "schipperke": {
+        "type_1_text_consistency_score": 0.6038774251937866,
+        "type_2_text_consistency_score": 0.18332254886627197,
+        "type_3_text_consistency_score": -0.3156875669956207
+    },
+    "boxer": {
+        "type_1_text_consistency_score": 0.5069775581359863,
+        "type_2_text_consistency_score": 0.19989535212516785,
+        "type_3_text_consistency_score": -0.49287891387939453
+    },
+    "bull mastiff": {
+        "type_1_text_consistency_score": 0.6292791366577148,
+        "type_2_text_consistency_score": 0.05489104986190796,
+        "type_3_text_consistency_score": -0.5091118812561035
+    },
+    "bulldog": {
+        "type_1_text_consistency_score": 0.4655371606349945,
+        "type_2_text_consistency_score": 0.17539799213409424,
+        "type_3_text_consistency_score": -0.46248120069503784
+    },
+    "eskimo dog": {
+        "type_1_text_consistency_score": 0.4880336821079254,
+        "type_2_text_consistency_score": 0.12652373313903809,
+        "type_3_text_consistency_score": -0.4124894440174103
+    },
+    "great dane": {
+        "type_1_text_consistency_score": 0.5708153247833252,
+        "type_2_text_consistency_score": 0.2181277722120285,
+        "type_3_text_consistency_score": -0.465620219707489
+    },
+    "guide dog": {
+        "type_1_text_consistency_score": 0.42386627197265625,
+        "type_2_text_consistency_score": 0.10009637475013733,
+        "type_3_text_consistency_score": -0.4561220705509186
+    },
+    "hearing dog": {
+        "type_1_text_consistency_score": 0.4059143662452698,
+        "type_2_text_consistency_score": -0.08811379969120026,
+        "type_3_text_consistency_score": -0.43993282318115234
+    },
+    "mastiff": {
+        "type_1_text_consistency_score": 0.6049748063087463,
+        "type_2_text_consistency_score": 0.15917065739631653,
+        "type_3_text_consistency_score": -0.5123335123062134
+    },
+    "police dog": {
+        "type_1_text_consistency_score": 0.418967068195343,
+        "type_2_text_consistency_score": 0.11455661058425903,
+        "type_3_text_consistency_score": -0.5006909966468811
+    },
+    "saint bernard": {
+        "type_1_text_consistency_score": 0.6541740894317627,
+        "type_2_text_consistency_score": 0.3071989119052887,
+        "type_3_text_consistency_score": -0.3096177577972412
+    },
+    "seizure-alert dog": {
+        "type_1_text_consistency_score": 0.36045482754707336,
+        "type_2_text_consistency_score": 0.02221628464758396,
+        "type_3_text_consistency_score": -0.4517967700958252
+    },
+    "sennenhunde": {
+        "type_1_text_consistency_score": 0.28868985176086426,
+        "type_2_text_consistency_score": 0.07056005299091339,
+        "type_3_text_consistency_score": -0.5914736986160278
+    },
+    "shepherd dog": {
+        "type_1_text_consistency_score": 0.3917364180088043,
+        "type_2_text_consistency_score": 0.03371588513255119,
+        "type_3_text_consistency_score": -0.44798940420150757
+    },
+    "sled dog": {
+        "type_1_text_consistency_score": 0.37889358401298523,
+        "type_2_text_consistency_score": 0.010677788406610489,
+        "type_3_text_consistency_score": -0.420507550239563
+    },
+    "watchdog": {
+        "type_1_text_consistency_score": 0.3719824552536011,
+        "type_2_text_consistency_score": -0.023835204541683197,
+        "type_3_text_consistency_score": -0.5267016887664795
+    },
+    "basenji": {
+        "type_1_text_consistency_score": 0.6394373178482056,
+        "type_2_text_consistency_score": 0.2726675271987915,
+        "type_3_text_consistency_score": -0.3653775751590729
+    },
+    "corgi": {
+        "type_1_text_consistency_score": 0.5567986965179443,
+        "type_2_text_consistency_score": 0.1599402129650116,
+        "type_3_text_consistency_score": -0.4580852687358856
+    },
+    "cur": {
+        "type_1_text_consistency_score": 0.34797072410583496,
+        "type_2_text_consistency_score": 0.026336386799812317,
+        "type_3_text_consistency_score": -0.4653352200984955
+    },
+    "dalmatian": {
+        "type_1_text_consistency_score": 0.6001164317131042,
+        "type_2_text_consistency_score": 0.24695762991905212,
+        "type_3_text_consistency_score": -0.3741492033004761
+    },
+    "great pyrenees": {
+        "type_1_text_consistency_score": 0.6492134928703308,
+        "type_2_text_consistency_score": 0.20001821219921112,
+        "type_3_text_consistency_score": -0.3709712028503418
+    },
+    "hunting dog": {
+        "type_1_text_consistency_score": 0.33149629831314087,
+        "type_2_text_consistency_score": 0.001688011921942234,
+        "type_3_text_consistency_score": -0.478394091129303
+    },
+    "lapdog": {
+        "type_1_text_consistency_score": 0.36718565225601196,
+        "type_2_text_consistency_score": -0.045532990247011185,
+        "type_3_text_consistency_score": -0.4141169488430023
+    },
+    "leonberg": {
+        "type_1_text_consistency_score": 0.5328064560890198,
+        "type_2_text_consistency_score": 0.21574808657169342,
+        "type_3_text_consistency_score": -0.4196244180202484
+    },
+    "mexican hairless": {
+        "type_1_text_consistency_score": 0.6146131753921509,
+        "type_2_text_consistency_score": 0.22581806778907776,
+        "type_3_text_consistency_score": -0.3589836359024048
+    },
+    "newfoundland": {
+        "type_1_text_consistency_score": 0.5220003724098206,
+        "type_2_text_consistency_score": 0.10354314744472504,
+        "type_3_text_consistency_score": -0.3396260142326355
+    },
+    "pooch": {
+        "type_1_text_consistency_score": 0.3916283845901489,
+        "type_2_text_consistency_score": 0.10553433746099472,
+        "type_3_text_consistency_score": -0.525206983089447
+    },
+    "poodle": {
+        "type_1_text_consistency_score": 0.3013691306114197,
+        "type_2_text_consistency_score": 0.09784121811389923,
+        "type_3_text_consistency_score": -0.5789816379547119
+    },
+    "pug": {
+        "type_1_text_consistency_score": 0.53476881980896,
+        "type_2_text_consistency_score": 0.19116824865341187,
+        "type_3_text_consistency_score": -0.47593846917152405
+    },
+    "puppy": {
+        "type_1_text_consistency_score": 0.40470969676971436,
+        "type_2_text_consistency_score": 0.12596584856510162,
+        "type_3_text_consistency_score": -0.5227990746498108
+    },
+    "spitz": {
+        "type_1_text_consistency_score": 0.5536440014839172,
+        "type_2_text_consistency_score": 0.11829344183206558,
+        "type_3_text_consistency_score": -0.4413619339466095
+    },
+    "toy dog": {
+        "type_1_text_consistency_score": 0.39364898204803467,
+        "type_2_text_consistency_score": 0.08509188890457153,
+        "type_3_text_consistency_score": -0.49758434295654297
+    },
+    "working dog": {
+        "type_1_text_consistency_score": 0.2986263930797577,
+        "type_2_text_consistency_score": 0.03846900165081024,
+        "type_3_text_consistency_score": -0.48619478940963745
+    }
+}

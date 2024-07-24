@@ -1,0 +1,22 @@
+{
+    "brittany spaniel": {
+        "type_1_text_consistency_score": 0.9120403528213501,
+        "type_2_text_consistency_score": 0.3496773838996887,
+        "type_3_text_consistency_score": -0.2174065113067627
+    },
+    "cocker spaniel": {
+        "type_1_text_consistency_score": 0.8856765627861023,
+        "type_2_text_consistency_score": 0.3958505094051361,
+        "type_3_text_consistency_score": -0.3459775745868683
+    },
+    "sussex spaniel": {
+        "type_1_text_consistency_score": 0.9276636838912964,
+        "type_2_text_consistency_score": 0.19603200256824493,
+        "type_3_text_consistency_score": -0.32711607217788696
+    },
+    "water spaniel": {
+        "type_1_text_consistency_score": 0.8856765627861023,
+        "type_2_text_consistency_score": 0.12715992331504822,
+        "type_3_text_consistency_score": -0.35825037956237793
+    }
+}

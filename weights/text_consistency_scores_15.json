@@ -1,0 +1,22 @@
+{
+    "chow": {
+        "type_1_text_consistency_score": 0.6869925260543823,
+        "type_2_text_consistency_score": 0.19375067949295044,
+        "type_3_text_consistency_score": -0.4398112893104553
+    },
+    "keeshond": {
+        "type_1_text_consistency_score": 0.8230474591255188,
+        "type_2_text_consistency_score": 0.24189099669456482,
+        "type_3_text_consistency_score": -0.2576250731945038
+    },
+    "pomeranian": {
+        "type_1_text_consistency_score": 0.6869925260543823,
+        "type_2_text_consistency_score": 0.3218117356300354,
+        "type_3_text_consistency_score": -0.4489530622959137
+    },
+    "samoyed": {
+        "type_1_text_consistency_score": 0.7719792127609253,
+        "type_2_text_consistency_score": 0.3059424161911011,
+        "type_3_text_consistency_score": -0.3800969123840332
+    }
+}

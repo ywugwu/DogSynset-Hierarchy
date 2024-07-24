@@ -1,0 +1,37 @@
+{
+    "bird dog": {
+        "type_1_text_consistency_score": 0.6995579600334167,
+        "type_2_text_consistency_score": 0.29419994354248047,
+        "type_3_text_consistency_score": -0.4424494802951813
+    },
+    "griffon": {
+        "type_1_text_consistency_score": 0.7007039785385132,
+        "type_2_text_consistency_score": 0.2505950629711151,
+        "type_3_text_consistency_score": -0.4120088517665863
+    },
+    "pointer": {
+        "type_1_text_consistency_score": 0.7444312572479248,
+        "type_2_text_consistency_score": 0.23553431034088135,
+        "type_3_text_consistency_score": -0.39090004563331604
+    },
+    "retriever": {
+        "type_1_text_consistency_score": 0.7147074937820435,
+        "type_2_text_consistency_score": 0.3119538426399231,
+        "type_3_text_consistency_score": -0.4368431866168976
+    },
+    "setter": {
+        "type_1_text_consistency_score": 0.7720910310745239,
+        "type_2_text_consistency_score": 0.2311641275882721,
+        "type_3_text_consistency_score": -0.44027554988861084
+    },
+    "spaniel": {
+        "type_1_text_consistency_score": 0.6843357682228088,
+        "type_2_text_consistency_score": 0.2643325924873352,
+        "type_3_text_consistency_score": -0.4323904812335968
+    },
+    "water dog": {
+        "type_1_text_consistency_score": 0.6843357682228088,
+        "type_2_text_consistency_score": 0.14592128992080688,
+        "type_3_text_consistency_score": -0.46343696117401123
+    }
+}

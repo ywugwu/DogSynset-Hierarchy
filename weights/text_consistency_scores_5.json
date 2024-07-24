@@ -1,0 +1,12 @@
+{
+    "german short-haired pointer": {
+        "type_1_text_consistency_score": 0.9239119291305542,
+        "type_2_text_consistency_score": 0.3907676041126251,
+        "type_3_text_consistency_score": -0.14638805389404297
+    },
+    "vizsla": {
+        "type_1_text_consistency_score": 0.9239119291305542,
+        "type_2_text_consistency_score": 0.4474774897098541,
+        "type_3_text_consistency_score": -0.17845502495765686
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "affenpinscher": {
+        "type_1_text_consistency_score": 0.9272798299789429,
+        "type_2_text_consistency_score": 0.3938947319984436,
+        "type_3_text_consistency_score": -0.10262387990951538
+    },
+    "doberman": {
+        "type_1_text_consistency_score": 0.9272798299789429,
+        "type_2_text_consistency_score": 0.5689994096755981,
+        "type_3_text_consistency_score": -0.09410679340362549
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "chesapeake bay retriever": {
+        "type_1_text_consistency_score": 0.826082706451416,
+        "type_2_text_consistency_score": 0.21094700694084167,
+        "type_3_text_consistency_score": -0.27935338020324707
+    },
+    "curly-coated retriever": {
+        "type_1_text_consistency_score": 0.7661298513412476,
+        "type_2_text_consistency_score": 0.11296366155147552,
+        "type_3_text_consistency_score": -0.460263192653656
+    },
+    "flat-coated retriever": {
+        "type_1_text_consistency_score": 0.771175742149353,
+        "type_2_text_consistency_score": 0.20983225107192993,
+        "type_3_text_consistency_score": -0.4878711402416229
+    },
+    "golden retriever": {
+        "type_1_text_consistency_score": 0.7661298513412476,
+        "type_2_text_consistency_score": 0.2248106449842453,
+        "type_3_text_consistency_score": -0.4471944272518158
+    },
+    "labrador retriever": {
+        "type_1_text_consistency_score": 0.7971448302268982,
+        "type_2_text_consistency_score": 0.3274304270744324,
+        "type_3_text_consistency_score": -0.4193513095378876
+    }
+}

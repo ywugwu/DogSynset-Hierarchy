@@ -1,0 +1,12 @@
+{
+    "feist": {
+        "type_1_text_consistency_score": 0.7022585272789001,
+        "type_2_text_consistency_score": 0.06880302727222443,
+        "type_3_text_consistency_score": -0.5332756042480469
+    },
+    "pariah dog": {
+        "type_1_text_consistency_score": 0.7022585272789001,
+        "type_2_text_consistency_score": 0.24292585253715515,
+        "type_3_text_consistency_score": -0.47058287262916565
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "airedale": {
+        "type_1_text_consistency_score": 0.6602187752723694,
+        "type_2_text_consistency_score": 0.16772903501987457,
+        "type_3_text_consistency_score": -0.3695842921733856
+    },
+    "australian terrier": {
+        "type_1_text_consistency_score": 0.6621105074882507,
+        "type_2_text_consistency_score": 0.20736698806285858,
+        "type_3_text_consistency_score": -0.49947190284729004
+    },
+    "boston bull": {
+        "type_1_text_consistency_score": 0.6916106343269348,
+        "type_2_text_consistency_score": 0.32538163661956787,
+        "type_3_text_consistency_score": -0.3673332631587982
+    },
+    "bullterrier": {
+        "type_1_text_consistency_score": 0.7210866808891296,
+        "type_2_text_consistency_score": 0.2666448950767517,
+        "type_3_text_consistency_score": -0.32556137442588806
+    },
+    "cairn": {
+        "type_1_text_consistency_score": 0.46748343110084534,
+        "type_2_text_consistency_score": 0.07546508312225342,
+        "type_3_text_consistency_score": -0.39474427700042725
+    },
+    "dandie dinmont": {
+        "type_1_text_consistency_score": 0.6497663259506226,
+        "type_2_text_consistency_score": 0.21218489110469818,
+        "type_3_text_consistency_score": -0.2925097942352295
+    },
+    "irish terrier": {
+        "type_1_text_consistency_score": 0.6759234666824341,
+        "type_2_text_consistency_score": 0.26676949858665466,
+        "type_3_text_consistency_score": -0.42417123913764954
+    },
+    "kerry blue terrier": {
+        "type_1_text_consistency_score": 0.7045032978057861,
+        "type_2_text_consistency_score": 0.3377770781517029,
+        "type_3_text_consistency_score": -0.2067478597164154
+    },
+    "lhasa": {
+        "type_1_text_consistency_score": 0.6298294067382812,
+        "type_2_text_consistency_score": 0.222161203622818,
+        "type_3_text_consistency_score": -0.3739609122276306
+    },
+    "norfolk terrier": {
+        "type_1_text_consistency_score": 0.6466388702392578,
+        "type_2_text_consistency_score": 0.17819498479366302,
+        "type_3_text_consistency_score": -0.45375877618789673
+    },
+    "norwich terrier": {
+        "type_1_text_consistency_score": 0.6591520309448242,
+        "type_2_text_consistency_score": 0.18765905499458313,
+        "type_3_text_consistency_score": -0.45082157850265503
+    },
+    "rat terrier": {
+        "type_1_text_consistency_score": 0.692034900188446,
+        "type_2_text_consistency_score": 0.2895456552505493,
+        "type_3_text_consistency_score": -0.30656877160072327
+    },
+    "schnauzer": {
+        "type_1_text_consistency_score": 0.6191188097000122,
+        "type_2_text_consistency_score": 0.2677351236343384,
+        "type_3_text_consistency_score": -0.3807224631309509
+    },
+    "scotch terrier": {
+        "type_1_text_consistency_score": 0.46748343110084534,
+        "type_2_text_consistency_score": 0.1588534116744995,
+        "type_3_text_consistency_score": -0.39588966965675354
+    },
+    "silky terrier": {
+        "type_1_text_consistency_score": 0.6263424158096313,
+        "type_2_text_consistency_score": 0.06715930998325348,
+        "type_3_text_consistency_score": -0.4712718725204468
+    },
+    "skye terrier": {
+        "type_1_text_consistency_score": 0.6361083984375,
+        "type_2_text_consistency_score": 0.17962637543678284,
+        "type_3_text_consistency_score": -0.38452643156051636
+    },
+    "soft-coated wheaten terrier": {
+        "type_1_text_consistency_score": 0.641120433807373,
+        "type_2_text_consistency_score": 0.2588091790676117,
+        "type_3_text_consistency_score": -0.26061153411865234
+    },
+    "tibetan terrier": {
+        "type_1_text_consistency_score": 0.673758864402771,
+        "type_2_text_consistency_score": 0.27134793996810913,
+        "type_3_text_consistency_score": -0.3486576974391937
+    },
+    "yorkshire terrier": {
+        "type_1_text_consistency_score": 0.6263967752456665,
+        "type_2_text_consistency_score": 0.22980128228664398,
+        "type_3_text_consistency_score": -0.48127979040145874
+    }
+}

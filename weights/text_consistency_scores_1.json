@@ -1,0 +1,12 @@
+{
+    "black-and-tan coonhound": {
+        "type_1_text_consistency_score": 0.8489131927490234,
+        "type_2_text_consistency_score": 0.20855101943016052,
+        "type_3_text_consistency_score": -0.3154858946800232
+    },
+    "coondog": {
+        "type_1_text_consistency_score": 0.8489131927490234,
+        "type_2_text_consistency_score": 0.30872881412506104,
+        "type_3_text_consistency_score": -0.3784085512161255
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "italian greyhound": {
+        "type_1_text_consistency_score": 0.856003999710083,
+        "type_2_text_consistency_score": 0.14833849668502808,
+        "type_3_text_consistency_score": -0.4799802303314209
+    },
+    "whippet": {
+        "type_1_text_consistency_score": 0.856003999710083,
+        "type_2_text_consistency_score": 0.2430741786956787,
+        "type_3_text_consistency_score": -0.4696175456047058
+    }
+}

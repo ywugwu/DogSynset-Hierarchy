@@ -1,0 +1,12 @@
+{
+    "american staffordshire terrier": {
+        "type_1_text_consistency_score": 0.7068825364112854,
+        "type_2_text_consistency_score": 0.061964355409145355,
+        "type_3_text_consistency_score": -0.5234327912330627
+    },
+    "staffordshire bullterrier": {
+        "type_1_text_consistency_score": 0.7068825364112854,
+        "type_2_text_consistency_score": 0.19439911842346191,
+        "type_3_text_consistency_score": -0.4987332224845886
+    }
+}

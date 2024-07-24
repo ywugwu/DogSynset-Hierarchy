@@ -1,0 +1,12 @@
+{
+    "borzoi": {
+        "type_1_text_consistency_score": 0.9004101753234863,
+        "type_2_text_consistency_score": 0.28971558809280396,
+        "type_3_text_consistency_score": -0.24497532844543457
+    },
+    "irish wolfhound": {
+        "type_1_text_consistency_score": 0.9004101753234863,
+        "type_2_text_consistency_score": 0.3510025143623352,
+        "type_3_text_consistency_score": -0.2671937346458435
+    }
+}

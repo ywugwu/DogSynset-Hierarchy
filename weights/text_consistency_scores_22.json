@@ -1,0 +1,27 @@
+{
+    "attack dog": {
+        "type_1_text_consistency_score": 0.5846994519233704,
+        "type_2_text_consistency_score": 0.1511916071176529,
+        "type_3_text_consistency_score": -0.5545766353607178
+    },
+    "housedog": {
+        "type_1_text_consistency_score": 0.5846994519233704,
+        "type_2_text_consistency_score": 0.10727719962596893,
+        "type_3_text_consistency_score": -0.5573723912239075
+    },
+    "kuvasz": {
+        "type_1_text_consistency_score": 0.8115904927253723,
+        "type_2_text_consistency_score": 0.3059355914592743,
+        "type_3_text_consistency_score": -0.29637786746025085
+    },
+    "pinscher": {
+        "type_1_text_consistency_score": 0.8353244662284851,
+        "type_2_text_consistency_score": 0.2439880669116974,
+        "type_3_text_consistency_score": -0.2691555321216583
+    },
+    "schipperke": {
+        "type_1_text_consistency_score": 0.848403811454773,
+        "type_2_text_consistency_score": 0.2075508087873459,
+        "type_3_text_consistency_score": -0.20778033137321472
+    }
+}

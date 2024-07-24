@@ -1,0 +1,12 @@
+{
+    "groenendael": {
+        "type_1_text_consistency_score": 0.8067463636398315,
+        "type_2_text_consistency_score": 0.31062769889831543,
+        "type_3_text_consistency_score": -0.20543435215950012
+    },
+    "malinois": {
+        "type_1_text_consistency_score": 0.8067463636398315,
+        "type_2_text_consistency_score": 0.4565389156341553,
+        "type_3_text_consistency_score": -0.15252700448036194
+    }
+}

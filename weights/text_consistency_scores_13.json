@@ -1,0 +1,32 @@
+{
+    "courser": {
+        "type_1_text_consistency_score": 0.836768388748169,
+        "type_2_text_consistency_score": 0.21412646770477295,
+        "type_3_text_consistency_score": -0.3841096758842468
+    },
+    "dachshund": {
+        "type_1_text_consistency_score": 0.8480036854743958,
+        "type_2_text_consistency_score": 0.2079557627439499,
+        "type_3_text_consistency_score": -0.4371262192726135
+    },
+    "hound": {
+        "type_1_text_consistency_score": 0.7669421434402466,
+        "type_2_text_consistency_score": 0.16322088241577148,
+        "type_3_text_consistency_score": -0.46995779871940613
+    },
+    "rhodesian ridgeback": {
+        "type_1_text_consistency_score": 0.8813549280166626,
+        "type_2_text_consistency_score": 0.2865830361843109,
+        "type_3_text_consistency_score": -0.2408013641834259
+    },
+    "sporting dog": {
+        "type_1_text_consistency_score": 0.7669421434402466,
+        "type_2_text_consistency_score": 0.23249486088752747,
+        "type_3_text_consistency_score": -0.46429434418678284
+    },
+    "terrier": {
+        "type_1_text_consistency_score": 0.8071459531784058,
+        "type_2_text_consistency_score": 0.26150190830230713,
+        "type_3_text_consistency_score": -0.48734456300735474
+    }
+}

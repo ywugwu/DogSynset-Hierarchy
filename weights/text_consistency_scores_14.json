@@ -1,0 +1,22 @@
+{
+    "large poodle": {
+        "type_1_text_consistency_score": 0.6879333853721619,
+        "type_2_text_consistency_score": 0.18268442153930664,
+        "type_3_text_consistency_score": -0.5044002532958984
+    },
+    "miniature poodle": {
+        "type_1_text_consistency_score": 0.668039083480835,
+        "type_2_text_consistency_score": 0.08524522185325623,
+        "type_3_text_consistency_score": -0.5507156848907471
+    },
+    "standard poodle": {
+        "type_1_text_consistency_score": 0.6994064450263977,
+        "type_2_text_consistency_score": 0.085311159491539,
+        "type_3_text_consistency_score": -0.4534216523170471
+    },
+    "toy poodle": {
+        "type_1_text_consistency_score": 0.668039083480835,
+        "type_2_text_consistency_score": 0.12051872909069061,
+        "type_3_text_consistency_score": -0.5336657166481018
+    }
+}
