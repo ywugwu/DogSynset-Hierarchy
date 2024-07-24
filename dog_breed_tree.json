@@ -1,0 +1,648 @@
+{
+  "name": "dog",
+  "definition": "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+  "children": [
+    {
+      "name": "basenji",
+      "definition": "small smooth-haired breed of African origin having a tightly curled tail and the inability to bark"
+    },
+    {
+      "name": "corgi",
+      "definition": "either of two Welsh breeds of long-bodied short-legged dogs with erect ears and a fox-like head"
+    },
+    {
+      "name": "cur",
+      "definition": "an inferior dog or one of mixed breed",
+      "children": [
+        {
+          "name": "feist",
+          "definition": "a nervous belligerent little mongrel dog"
+        },
+        {
+          "name": "pariah dog",
+          "definition": "ownerless half-wild mongrel dog common around Asian villages especially India"
+        }
+      ]
+    },
+    {
+      "name": "dalmatian",
+      "definition": "a large breed having a smooth white coat with black or brown spots; originated in Dalmatia"
+    },
+    {
+      "name": "great pyrenees",
+      "definition": "bred of large heavy-coated white dogs resembling the Newfoundland"
+    },
+    {
+      "name": "griffon",
+      "definition": "breed of various very small compact wiry-coated dogs of Belgian origin having a short bearded muzzle"
+    },
+    {
+      "name": "hunting dog",
+      "definition": "a dog used in hunting game",
+      "children": [
+        {
+          "name": "courser",
+          "definition": "a dog trained for coursing"
+        },
+        {
+          "name": "dachshund",
+          "definition": "small long-bodied short-legged German breed of dog having a short sleek coat and long drooping ears; suited for following game into burrows"
+        },
+        {
+          "name": "hound",
+          "definition": "any of several breeds of dog used for hunting typically having large drooping ears",
+          "children": [
+            {
+              "name": "afghan hound",
+              "definition": "tall graceful breed of hound with a long silky coat; native to the Near East"
+            },
+            {
+              "name": "basset",
+              "definition": "smooth-haired breed of hound with short legs and long ears"
+            },
+            {
+              "name": "beagle",
+              "definition": "a small short-legged smooth-coated breed of hound"
+            },
+            {
+              "name": "bloodhound",
+              "definition": "a breed of large powerful hound of European origin having very acute smell and used in tracking"
+            },
+            {
+              "name": "coonhound",
+              "definition": "any of several breeds of hound developed for hunting raccoons",
+              "children": [
+                {
+                  "name": "black-and-tan coonhound",
+                  "definition": "American breed of large powerful hound dogs used for hunting raccoons and other game"
+                },
+                {
+                  "name": "coondog",
+                  "definition": "any dog trained to hunt raccoons"
+                }
+              ]
+            },
+            {
+              "name": "greyhound",
+              "definition": "a tall slender dog of an ancient breed noted for swiftness and keen sight; used as a racing dog",
+              "children": [
+                {
+                  "name": "italian greyhound",
+                  "definition": "a toy dog developed from the greyhound"
+                },
+                {
+                  "name": "whippet",
+                  "definition": "small slender dog of greyhound type developed in England"
+                }
+              ]
+            },
+            {
+              "name": "ibizan hound",
+              "definition": "breed of slender agile medium-sized hound found chiefly in the Balearic Islands; said to have been bred originally by the Pharaohs of ancient Egypt"
+            },
+            {
+              "name": "norwegian elkhound",
+              "definition": "breed of compact medium-sized dog with a heavy grey coat developed in Norway for hunting elk"
+            },
+            {
+              "name": "saluki",
+              "definition": "old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia"
+            },
+            {
+              "name": "scottish deerhound",
+              "definition": "very large and tall rough-coated dog bred for hunting deer; known as the royal dog of Scotland"
+            },
+            {
+              "name": "weimaraner",
+              "definition": "large breed of hound having a smooth greyish coat; originated in Germany"
+            },
+            {
+              "name": "wolfhound",
+              "definition": "the largest breed of dogs; formerly used to hunt wolves",
+              "children": [
+                {
+                  "name": "borzoi",
+                  "definition": "tall fast-moving dog breed"
+                },
+                {
+                  "name": "irish wolfhound",
+                  "definition": "large breed of hound with a rough thick coat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rhodesian ridgeback",
+          "definition": "a powerful short-haired African hunting dog having a crest of reversed hair along the spine"
+        },
+        {
+          "name": "sporting dog",
+          "definition": "a dog trained to work with sportsmen when they hunt with guns",
+          "children": [
+            {
+              "name": "bird dog",
+              "definition": "a gun dog trained to locate or retrieve birds"
+            },
+            {
+              "name": "griffon",
+              "definition": "breed of medium-sized long-headed dogs with downy undercoat and harsh wiry outer coat; originated in Holland but largely developed in France"
+            },
+            {
+              "name": "pointer",
+              "definition": "a strong slender smooth-haired dog of Spanish origin having a white coat with brown or black patches; scents out and points to game",
+              "children": [
+                {
+                  "name": "german short-haired pointer",
+                  "definition": "liver or liver-and-white hunting dog developed in Germany; 3/4 pointer and 1/4 bloodhound"
+                },
+                {
+                  "name": "vizsla",
+                  "definition": "Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat"
+                }
+              ]
+            },
+            {
+              "name": "retriever",
+              "definition": "a dog with heavy water-resistant coat that can be trained to retrieve game",
+              "children": [
+                {
+                  "name": "chesapeake bay retriever",
+                  "definition": "American breed having a short thick oily coat ranging from brown to light tan"
+                },
+                {
+                  "name": "curly-coated retriever",
+                  "definition": "an English breed having a tightly curled black or liver-colored coat; retrieves game from land or water"
+                },
+                {
+                  "name": "flat-coated retriever",
+                  "definition": "an English breed having a shiny black or liver-colored coat; retrieves game from land or water"
+                },
+                {
+                  "name": "golden retriever",
+                  "definition": "an English breed having a long silky golden coat"
+                },
+                {
+                  "name": "labrador retriever",
+                  "definition": "breed originally from Labrador having a short black or golden-brown coat"
+                }
+              ]
+            },
+            {
+              "name": "setter",
+              "definition": "a long-haired dog formerly trained to crouch on finding game but now to point",
+              "children": [
+                {
+                  "name": "english setter",
+                  "definition": "an English breed having a plumed tail and a soft silky coat that is chiefly white"
+                },
+                {
+                  "name": "gordon setter",
+                  "definition": "a Scottish breed with a black-and-tan coat"
+                },
+                {
+                  "name": "irish setter",
+                  "definition": "an Irish breed with a chestnut-brown or mahogany-red coat"
+                }
+              ]
+            },
+            {
+              "name": "spaniel",
+              "definition": "any of several breeds of small to medium-sized gun dogs with a long silky coat and long frilled ears",
+              "children": [
+                {
+                  "name": "brittany spaniel",
+                  "definition": "tall active short-tailed French breed of bird dog having a usually smooth orange- or liver-and-white coat"
+                },
+                {
+                  "name": "cocker spaniel",
+                  "definition": "a small breed with wavy silky hair; originally developed in England"
+                },
+                {
+                  "name": "sussex spaniel",
+                  "definition": "an English breed with short legs and a golden liver-colored coat"
+                },
+                {
+                  "name": "water spaniel",
+                  "definition": "any dog of two large curly-coated breeds used for hunting waterfowl",
+                  "children": [
+                    {
+                      "name": "american water spaniel",
+                      "definition": "breed of medium-sized spaniels originating in America having chocolate or liver-colored curly coat"
+                    },
+                    {
+                      "name": "irish water spaniel",
+                      "definition": "breed of large spaniels developed in Ireland having a heavy coat of liver-colored curls and a topknot of long curls and a nearly hairless tail"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "water dog",
+              "definition": "a dog accustomed to water and usually trained to retrieve waterfowl"
+            }
+          ]
+        },
+        {
+          "name": "terrier",
+          "definition": "any of several usually small short-bodied breeds originally trained to hunt animals living underground",
+          "children": [
+            {
+              "name": "airedale",
+              "definition": "breed of large wiry-coated terrier bred in Yorkshire"
+            },
+            {
+              "name": "australian terrier",
+              "definition": "small greyish wire-haired breed of terrier from Australia similar to the cairn"
+            },
+            {
+              "name": "boston bull",
+              "definition": "small pug-faced American terrier breed having a smooth brindle or black coat with white markings"
+            },
+            {
+              "name": "bullterrier",
+              "definition": "a powerful short-haired terrier originated in England by crossing the bulldog with terriers",
+              "children": [
+                {
+                  "name": "american staffordshire terrier",
+                  "definition": "American breed of muscular terriers with a short close-lying stiff coat"
+                },
+                {
+                  "name": "staffordshire bullterrier",
+                  "definition": "English breed of strong stocky dog having a broad skull and smooth coat"
+                }
+              ]
+            },
+            {
+              "name": "cairn",
+              "definition": "small rough-haired breed of terrier from Scotland"
+            },
+            {
+              "name": "dandie dinmont",
+              "definition": "a breed of small terrier with long wiry coat and drooping ears"
+            },
+            {
+              "name": "irish terrier",
+              "definition": "medium-sized breed with a wiry brown coat; developed in Ireland"
+            },
+            {
+              "name": "kerry blue terrier",
+              "definition": "an Irish breed of medium-sized terriers with a silky blue-grey coat"
+            },
+            {
+              "name": "lhasa",
+              "definition": "a breed of terrier having a long heavy coat raised in Tibet as watchdogs"
+            },
+            {
+              "name": "norfolk terrier",
+              "definition": "English breed of small terrier with a straight wiry grizzled coat and dropped ears"
+            },
+            {
+              "name": "norwich terrier",
+              "definition": "English breed of small short-legged terrier with a straight wiry red or grey or black-and-tan coat and erect ears"
+            },
+            {
+              "name": "rat terrier",
+              "definition": "any of several breeds of terrier developed to catch rats",
+              "children": [
+                {
+                  "name": "manchester terrier",
+                  "definition": "a breed of short-haired rat terrier with a black-and-tan coat that was developed in Manchester, England",
+                  "children": [
+                    {
+                      "name": "toy manchester",
+                      "definition": "breed of small Manchester terrier"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "schnauzer",
+              "definition": "old German breed of sturdy black or greyish wire-haired terriers having a blunt muzzle ranging in size from fairly small to very large; used as ratters and guard dogs or police dogs"
+            },
+            {
+              "name": "scotch terrier",
+              "definition": "old Scottish breed of small long-haired usually black terrier with erect tail and ears"
+            },
+            {
+              "name": "silky terrier",
+              "definition": "Australian breed of toy dogs having a silky blue coat"
+            },
+            {
+              "name": "skye terrier",
+              "definition": "Scottish breed of terrier with shaggy hair and long low body with short legs; native to the Isle of Skye"
+            },
+            {
+              "name": "soft-coated wheaten terrier",
+              "definition": "Irish breed of medium-sized terrier with an abundant coat any shade of wheat and very hairy head and muzzle"
+            },
+            {
+              "name": "tibetan terrier",
+              "definition": "breed of medium-sized terriers bred in Tibet resembling Old English sheepdogs with fluffy curled tails"
+            },
+            {
+              "name": "yorkshire terrier",
+              "definition": "very small breed having a long glossy coat of bluish-grey and tan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lapdog",
+      "definition": "a dog small and tame enough to be held in the lap"
+    },
+    {
+      "name": "leonberg",
+      "definition": "a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland"
+    },
+    {
+      "name": "mexican hairless",
+      "definition": "any of an old breed of small nearly hairless dogs of Mexico"
+    },
+    {
+      "name": "newfoundland",
+      "definition": "a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland"
+    },
+    {
+      "name": "pooch",
+      "definition": "informal terms for dogs"
+    },
+    {
+      "name": "poodle",
+      "definition": "an intelligent dog with a heavy curly solid-colored coat that is usually clipped; an old breed sometimes trained as sporting dogs or as performing dogs",
+      "children": [
+        {
+          "name": "large poodle",
+          "definition": "the largest breed of poodle"
+        },
+        {
+          "name": "miniature poodle",
+          "definition": "a breed of small poodles"
+        },
+        {
+          "name": "standard poodle",
+          "definition": "a breed or medium-sized poodles"
+        },
+        {
+          "name": "toy poodle",
+          "definition": "the breed of very small poodles"
+        }
+      ]
+    },
+    {
+      "name": "pug",
+      "definition": "small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle"
+    },
+    {
+      "name": "puppy",
+      "definition": "a young dog"
+    },
+    {
+      "name": "spitz",
+      "definition": "any of various stocky heavy-coated breeds of dogs native to northern regions having pointed muzzles and erect ears with a curled furry tail",
+      "children": [
+        {
+          "name": "chow",
+          "definition": "breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China"
+        },
+        {
+          "name": "keeshond",
+          "definition": "a spitz-like dog having a shaggy greyish coat and tightly curled tail originating in Holland"
+        },
+        {
+          "name": "pomeranian",
+          "definition": "breed of very small compact long-haired dogs of the spitz type"
+        },
+        {
+          "name": "samoyed",
+          "definition": "Siberian breed of white or cream-colored dog of the spitz family"
+        }
+      ]
+    },
+    {
+      "name": "toy dog",
+      "definition": "any of several breeds of very small dogs kept purely as pets",
+      "children": [
+        {
+          "name": "chihuahua",
+          "definition": "an old breed of tiny short-haired dog with protruding eyes from Mexico held to antedate Aztec civilization"
+        },
+        {
+          "name": "japanese spaniel",
+          "definition": "breed of toy dogs originating in Japan having a silky black-and-white or red-and-white coat"
+        },
+        {
+          "name": "maltese dog",
+          "definition": "breed of toy dogs having a long straight silky white coat"
+        },
+        {
+          "name": "pekinese",
+          "definition": "a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle"
+        },
+        {
+          "name": "shih-tzu",
+          "definition": "a Chinese breed of small dog similar to a Pekingese"
+        },
+        {
+          "name": "toy terrier",
+          "definition": "a small active dog"
+        }
+      ]
+    },
+    {
+      "name": "working dog",
+      "definition": "any of several breeds of usually large powerful dogs bred to work as draft animals and guard and guide dogs",
+      "children": [
+        {
+          "name": "boxer",
+          "definition": "a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany"
+        },
+        {
+          "name": "bull mastiff",
+          "definition": "large powerful breed developed by crossing the bulldog and the mastiff"
+        },
+        {
+          "name": "bulldog",
+          "definition": "a sturdy thickset short-haired breed with a large head and strong undershot lower jaw; developed originally in England for bull baiting",
+          "children": [
+            {
+              "name": "french bulldog",
+              "definition": "small stocky version of the bulldog having a sleek coat and square head"
+            }
+          ]
+        },
+        {
+          "name": "eskimo dog",
+          "definition": "breed of heavy-coated Arctic sled dog"
+        },
+        {
+          "name": "great dane",
+          "definition": "very large powerful smooth-coated breed of dog"
+        },
+        {
+          "name": "guide dog",
+          "definition": "a dog trained to guide the blind",
+          "children": [
+            {
+              "name": "seeing eye dog",
+              "definition": "(trademark) a guide dog trained to guide a blind person"
+            }
+          ]
+        },
+        {
+          "name": "hearing dog",
+          "definition": "dog trained to assist the deaf by signaling the occurrence of certain sounds"
+        },
+        {
+          "name": "mastiff",
+          "definition": "an old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog",
+          "children": [
+            {
+              "name": "tibetan mastiff",
+              "definition": "very large powerful rough-coated dog native to central Asia"
+            }
+          ]
+        },
+        {
+          "name": "police dog",
+          "definition": "any dog trained to assist police especially in tracking"
+        },
+        {
+          "name": "saint bernard",
+          "definition": "a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog"
+        },
+        {
+          "name": "seizure-alert dog",
+          "definition": "a dog that can alert or assist people with seizure disorders"
+        },
+        {
+          "name": "sennenhunde",
+          "definition": "any of four Swiss breeds",
+          "children": [
+            {
+              "name": "appenzeller",
+              "definition": "a smaller of the four Swiss breeds"
+            },
+            {
+              "name": "bernese mountain dog",
+              "definition": "large powerful long-haired black-coated Swiss dog with deep tan or russet markings on legs and white blaze and feet and chest marking; formerly used for draft"
+            },
+            {
+              "name": "greater swiss mountain dog",
+              "definition": "the largest of the four Swiss breeds"
+            }
+          ]
+        },
+        {
+          "name": "shepherd dog",
+          "definition": "any of various usually long-haired breeds of dog reared to herd and guard sheep",
+          "children": [
+            {
+              "name": "belgian sheepdog",
+              "definition": "hardy working dog developed in Belgium for herding sheep",
+              "children": [
+                {
+                  "name": "groenendael",
+                  "definition": "black-coated sheepdog with a heavily plumed tail"
+                },
+                {
+                  "name": "malinois",
+                  "definition": "fawn-colored short-haired sheepdog"
+                }
+              ]
+            },
+            {
+              "name": "bouvier des flandres",
+              "definition": "rough-coated breed used originally in Belgium for herding and guarding cattle"
+            },
+            {
+              "name": "briard",
+              "definition": "old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat"
+            },
+            {
+              "name": "collie",
+              "definition": "a silky-coated sheepdog with a long ruff and long narrow head developed in Scotland"
+            },
+            {
+              "name": "german shepherd",
+              "definition": "breed of large shepherd dogs used in police work and as a guide for the blind"
+            },
+            {
+              "name": "kelpie",
+              "definition": "an Australian sheepdog with pointed ears"
+            },
+            {
+              "name": "komondor",
+              "definition": "Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog"
+            },
+            {
+              "name": "old english sheepdog",
+              "definition": "large sheepdog with a profuse shaggy bluish-grey-and-white coat and short tail; believed to trace back to the Roman occupation of Britain"
+            },
+            {
+              "name": "rottweiler",
+              "definition": "German breed of large vigorous short-haired cattle dogs"
+            },
+            {
+              "name": "shetland sheepdog",
+              "definition": "a small sheepdog resembling a collie that was developed in the Shetland Islands"
+            }
+          ]
+        },
+        {
+          "name": "sled dog",
+          "definition": "a dog trained to draw a sled usually in a team",
+          "children": [
+            {
+              "name": "malamute",
+              "definition": "breed of sled dog developed in Alaska"
+            },
+            {
+              "name": "siberian husky",
+              "definition": "breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes"
+            }
+          ]
+        },
+        {
+          "name": "watchdog",
+          "definition": "a dog trained to guard property",
+          "children": [
+            {
+              "name": "attack dog",
+              "definition": "a watchdog trained to attack on command"
+            },
+            {
+              "name": "housedog",
+              "definition": "a dog trained to guard a house"
+            },
+            {
+              "name": "kuvasz",
+              "definition": "long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog"
+            },
+            {
+              "name": "pinscher",
+              "definition": "any of three breeds of dogs whose ears and tail are usually cropped",
+              "children": [
+                {
+                  "name": "affenpinscher",
+                  "definition": "European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle"
+                },
+                {
+                  "name": "doberman",
+                  "definition": "medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog"
+                }
+              ]
+            },
+            {
+              "name": "schipperke",
+              "definition": "breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
