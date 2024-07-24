@@ -7,9 +7,9 @@ import os
 import collections
 
 weights = collections.defaultdict(float)
-for file in os.listdir('DogSynset/weights/'):
+for file in os.listdir('weights/'):
     if file.endswith('.json') and 'all_' not in file:
-        with open(f'DogSynset/weights/{file}') as f:
+        with open(f'weights/{file}') as f:
             data = json.load(f)      
             for name in data:
                 weights[name.lower()] = data[name]['type_3_text_consistency_score'] + data[name]['type_2_text_consistency_score'] + data[name]['type_3_text_consistency_score']
@@ -40,7 +40,7 @@ class Edge:
         self.target = target
 
 # Load JSON data
-with open('DogSynset/dog_breed_tree.json') as f:
+with open('dog_breed_tree.json') as f:
     data = json.load(f)
 
 nodes = []
@@ -87,7 +87,7 @@ ax.set_xlabel('Depth')
 ax.set_ylabel('Value')
 ax.set_title('Consistency Score Distribution at Each Depth')
 # save the plot
-plt.savefig('DogSynset/consistency_score_distribution.png')
+plt.savefig('consistency_score_distribution.png')
 
 
 st.header(f"Please Wait for the Rendering of {len(nodes)} nodes and {len(edges)} edges to Complete:coffee:...")
